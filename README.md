@@ -18,7 +18,7 @@ For my senior capstone, I completely re-architected the original script to refle
 * **Feature Engineering:** Engineered new metrics, including `avg_daily_streams` and a `momentum_score`, to better analyze performance trends.
 * **Local Database:** Transitioned from cloud storage to a lightweight, local SQLite relational database for efficient structured querying.
 
-## 🛠️ Tech Skills
+## 🛠️ Tech Stack
 * **Language:** Python (Pandas, Spotipy), SQL
 * **Infrastructure & Storage:** SQLite, AWS (S3, RDS MySQL - V1)
 * **Environment:** Google Colab / Jupyter Notebook
